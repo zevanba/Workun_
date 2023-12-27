@@ -1,0 +1,8 @@
+.search-container {
+    text-align: center;
+    margin-top: 35px;
+}
+
+<input type="text" placeholder="Buscar..." name="q">
+
+<button type="submit">Buscar</button>
